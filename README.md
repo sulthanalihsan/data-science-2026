@@ -37,7 +37,7 @@ Pertemuan 7: Pengantar Machine Learning: Regresi Linear
 | **Pertemuan 1** | Pertemuan 1: Pengenalan Data Science | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan1_Muhamad_Sulthan_Al_Ihsan_250401020154.ipynb) |
 | **Pertemuan 2** | Pertemuan 2: Struktur Data Python, NumPy & Pandas | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan2_Muhamad_Sulthan_Al_Ihsan_250401020154.ipynb) |
 | **Pertemuan 3** | Pertemuan 3: Data Cleaning | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan3_Muhamad_Sulthan_Al_Ihsan_250401020154.ipynb) |
-| **Pertemuan 4** | Pertemuan 4: Statistika Dasar & Analisis Data | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan4_Muhamad_Sulthan_Al_Ihsan_250401020154.ipynb) |
+| **Pertemuan 4** | Pertemuan 4: Statistika Dasar & Analisis Data | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan4_Muhamad_Sulthan_Al_Ihsan_250401020154_ipynb.ipynb) |
 | **Pertemuan 5** | Pertemuan 5: Visualisasi Data | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan5_Muhamad_Sulthan_Al_Ihsan_250401020154.ipynb) |
 | **Pertemuan 6** | Pertemuan 6: Persiapan Datal | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan6_Muhamad_Sulthan_Al_Ihsan_250401020154.ipynb) |
 | **Pertemuan 7** | Pertemuan 7: Pengantar Regresi Linear & Evaluasi Model | [🔗 Buka Notebook](https://github.com/sulthanalihsan/data-science-2026/blob/main/Pertemuan7_Muhamad_Sulthan_Al_Ihsan_250401020154.ipynb) |
